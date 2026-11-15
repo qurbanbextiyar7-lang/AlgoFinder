@@ -1,0 +1,6 @@
+{
+  "name": "AlgoFind",
+  "description": "AlgOFind motoruyla açık internette araştırma yapan, en popüler sonuçları öne çıkaran ve siteleri tam görünümle açan hızlı arama motoru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
